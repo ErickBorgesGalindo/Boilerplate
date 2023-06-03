@@ -28,7 +28,7 @@ npm install @react-navigation/native-stack
 
 ## Versionado 📌
 
-0.0.1
+1.1.0
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles.
 
 ## Autores ✒️
